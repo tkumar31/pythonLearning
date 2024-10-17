@@ -2,7 +2,6 @@
 # Countdown: Create a program that counts down from 10 to 1 and then prints "Lift off!".
 # Even Numbers: Write a loop that prints all even numbers between 1 and 20.
 # Guessing Game: Create a simple guessing game where the user has to guess a predefined number. The program should keep asking for guesses until the correct number is guessed.
-#count down
 
 # i = 10
 #
